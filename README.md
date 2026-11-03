@@ -6,6 +6,10 @@ A modern, stylish, multi-page café website built using HTML, CSS and JavaScript
 
 [Visit NOIR Café Website](https://leafy-buttercream-5ee09f.netlify.app/)
 
+## 📸 Website Preview
+
+![NOIR Cafe Homepage](noir-cafe-home.png)
+
 ## 📌 About the Project
 
 NOIR Café is a website project created to practise frontend web development and build a digital presence for a café.
